@@ -1,14 +1,2 @@
 Scott Enriquez CSID: se4853 UTEID: se4853
 Ejenio Capetillo Jr. CSID: ejenioc UTEID: ec8876
-
-This project is fully functional. All of our code (both the .c files and MATLAB .m script that we modified to create our plots) is in the Stampede folder.
-
-Also submitted are two folders called Results and Plots. The results folder contains all of the .out files that we recieved from Stampede after successfully running our code. Plots contains all of the graphs that we generated from our MATLAB script. These files are in .fig format. The best way that we found to view them is simply cd to the Plots directory then run "matlab * &" in the command line. This should open MATLAB to the correct folder and the graphs shoud all be listed on the sidebar.
-
-Both the results and plots are named appropriately based on implementation number and number of processes.
-
-For the purpose of testing our code locally, we ran everything on diligence.cs.utexas.edu.
-
-Please email me at scott.c.enriquez@gmail.com if you have any questions.
-
-Thanks for an awesome semester!
