@@ -1,0 +1,15 @@
+
+Currently Loaded Modules:
+  1) TACC          3) Linux      5) cluster-paths       7) mvapich2/1.9a2
+  2) TACC-paths    4) cluster    6) intel/13.0.2.146
+TACC: Starting up job 721176
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+data = [
+16 4 4 1000 1.635439e-01 1.222913e+01 7.643206e-01
+16 4 4 2000 8.197212e-02 1.951883e+02 1.219927e+01
+16 4 4 3000 2.543001e-01 2.123475e+02 1.327172e+01
+16 4 4 4000 5.505731e-01 2.324850e+02 1.453031e+01
+16 4 4 5000 1.005191e+00 2.487089e+02 1.554431e+01
+]; 
+TACC: Shutdown complete. Exiting.
