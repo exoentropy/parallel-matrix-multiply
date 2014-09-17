@@ -116,11 +116,6 @@ void ParallelRank2(
 
 	  }
 
-	 printf("============================================\n");
-         printf("local_m: %d\n", local_m);
-	 printf("mycol: %d\n", mycol);
-	 printf("============================================\n");
-
 	int buffAIndex = mycol * local_m;
         int buffBIndex = myrow * local_n;
 	int z;
