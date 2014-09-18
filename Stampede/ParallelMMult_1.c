@@ -2,9 +2,6 @@
 #include "mpi.h"
 #include "prototypes.h"
 
-// change to ParallelMMult_2.c
-// change loop to increment in steps of bk
-
 void ParallelMMult( 
 		   // global matrix dimensions m, n, k
 		   int global_m, int global_n, int global_k,  
